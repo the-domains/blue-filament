@@ -1,0 +1,14 @@
+layout_spectrum: 0.6626583507750183
+typography_spectrum: 0.5958072904031724
+color:
+  brandStrength: 0.36034439550712705
+  lightness: 0.02746998891234398
+  saturation: 0.3078916084486991
+  rhythmicContrast: 0.022420257329940796
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: blue filament
